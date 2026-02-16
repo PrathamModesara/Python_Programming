@@ -1,0 +1,3 @@
+Hello, this is Python file handling.
+Welcome to MSc Data Science.
+This line is appended.
